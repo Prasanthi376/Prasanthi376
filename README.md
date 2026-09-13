@@ -62,7 +62,7 @@ Machine Learning project for detecting fraudulent credit card transactions using
 
 **Tech:** Python • Pandas • NumPy • Scikit-learn • K-Means • Random Forest • Streamlit
 
-🔗 [View Project](https://github.com/Prasanthi376)
+🔗 [View Project](https://github.com/Prasanthi376/AI-Powered-Credit-Card-Fraud-Detection)
 
 ---
 
